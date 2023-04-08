@@ -4,6 +4,5 @@
   "semi": true,
   "arrowParens": "always",
   "trailingComma": "none",
-  "singleQuote": true,
-  "useTabs": false
+  "singleQuote": true
 }
