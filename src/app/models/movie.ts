@@ -18,6 +18,6 @@ export interface Movie {
 export interface MovieDto {
   page: number;
   results: Movie[];
-  total_result: number;
+  total_results: number;
   total_pages: number;
 }
